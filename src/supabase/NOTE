@@ -1,0 +1,36 @@
+  {
+    key: 'client',
+    label: 'Client / Customer',
+    description: 'Request emergency roadside assistance, towing, tyre, battery, and fuel delivery',
+    icon: 'person-outline',
+  },
+  {
+    key: 'mobile_mechanic',
+    label: 'Mobile Mechanic',
+    description: 'Provide on-demand roadside assistance: Towing, Tyre Assist, Fuel Delivery, and Battery Rescue',
+    icon: 'construct-outline',
+  },
+  {
+    key: 'fleet_mechanic',
+    label: 'Fleet Mechanic',
+    description: 'Handle dedicated corporate fleet maintenance, emergency rescues, and repairs',
+    icon: 'build-outline',
+  },
+  {
+    key: 'fleet_admin',
+    label: 'Fleet Admin',
+    description: 'Manage corporate fleets, company vehicles, and drivers',
+    icon: 'business-outline',
+  },
+  {
+    key: 'fleet_driver',
+    label: 'Fleet Driver',
+    description: 'Drive fleet vehicles and handle assigned emergency tasks',
+    icon: 'car-outline',
+  },
+  {
+    key: 'admin',
+    label: 'Administrator',
+    description: 'Full system management and administrative control',
+    icon: 'shield-checkmark-outline',
+  },

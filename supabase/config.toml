@@ -1,0 +1,2 @@
+[functions.diagnosis]
+verify_jwt = false
